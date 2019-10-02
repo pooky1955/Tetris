@@ -1,1 +1,1 @@
-console.log("nico nico nii");
+console.log("nico nico nii, we are weebs");
